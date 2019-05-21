@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="text_dwa">Am I Poor?</string>
+    <string name="kamyk">Kamien!</string>
 </resources>
